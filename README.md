@@ -11,12 +11,6 @@ Projeto em fase de criação e planejamento.
 ## Integrantes
 
 - Ludmilla Oliveira
-- Fabio Santos
-- Diogo
-- Gustavo
-- Igor Henrique 
-- Victor Gonçalves
-
 
 ## Professor
 
