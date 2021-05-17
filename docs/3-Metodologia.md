@@ -27,7 +27,7 @@ etiquetas:
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
-Não há divisão de papéis. Grupo gragmentado e ausente nas demandas que se seguem no desenvolvimento do projeto.
+N/D
 
 ### Processo 
 Plataforma
@@ -38,10 +38,9 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t6-grupo-2-
 Documentos do projeto
 Google Drive
 https://drive.google.com/drive/u/1/my-drive
-Projeto de Interface e  Wireframes
-MarvelApp
-https://marvelapp.com/4hd6091  
-
+Projeto de userflow
+https://app.flowmapp.com/projects/213748/sitemap/
+ 
 
 ### Ferramentas
 
