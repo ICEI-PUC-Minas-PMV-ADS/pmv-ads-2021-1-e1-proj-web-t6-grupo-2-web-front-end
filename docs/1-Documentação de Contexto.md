@@ -6,7 +6,7 @@ Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o pr
 ## Problema
 Trazer maior viabilidade no uso das ferramentas tecnológicas para os profissionais de educação, afim de otimizar o desenvolvimento de seu trabalho no dia a dia.
 A ferramenta terá alcance nas instituições de ensino, fazendo com que o profissional de educação obetenha formação continuada e inclusão digital também no período pós pandêmico.
-Com um olhar mais abrangente, traremos no portal um espaço de compartilhamento de ideias(blainstorm), onde cada usuário poderá fazer parte de uma atualização/redirecionamento do portal.O intuito é trazer maior amplitude nas estratégias de trabalho e fazer com que o profissional também reflita sobre o seu trabalho como um todo.Esse espaço terá um intuito de corroborar com o direcionamento do portal, uma maior sensibilidade no quesito de escolhas das ferramentas  oferecidas à esses profissionais. Para iss, utilizamos conceitos de Design Thinking que estao intrinsicamente ligados a observação, reflexão e construção de ideias. 
+Com um olhar mais abrangente, traremos no portal um espaço de compartilhamento de ideias (blainstorm), onde cada usuário poderá fazer parte de uma atualização/redirecionamento do portal.O intuito é trazer maior amplitude nas estratégias de trabalho e fazer com que o profissional também reflita sobre o seu trabalho como um todo.Esse espaço terá um intuito de corroborar com o direcionamento do portal e gerar uma maior sensibilidade no quesito de escolhas das ferramentas oferecidas à esses profissionais. Para isso, utilizaremos conceitos de Design Thinking que estao intrinsicamente ligados a observação, reflexão e construção de ideias. 
 
 
 
