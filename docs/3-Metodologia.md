@@ -36,9 +36,12 @@ Repositório de código fonte
 GitHub
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-1-e1-proj-web-t6-grupo-2-web-front-end
 Documentos do projeto
+
 Google Drive
 https://drive.google.com/drive/u/1/my-drive
-Projeto de userflow
+
+Ferramenta de diagramação
+
 https://app.flowmapp.com/projects/213748/sitemap/
  
 
