@@ -2,10 +2,12 @@
 
 ## Instalação do Site
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+O site em HTML/CSS/JS é um projeto estático e foi hospedado no heroku. Poderá ser conferido no link:
+
+https://incluaedu.herokuapp.com/home.html
+
 
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
+### [0.1.0] - 05/07/2021
 #### Adicionado
-- Adicionado ...
