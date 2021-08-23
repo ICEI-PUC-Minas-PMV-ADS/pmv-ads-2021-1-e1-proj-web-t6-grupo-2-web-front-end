@@ -1,12 +1,10 @@
-# TÍTULO DO PROJETO
-
-`Análise e Desenvolvimento de Sistemas`
-
+# Inclu@
+Portal de Apoio ao Profissional da Educação para o ensino com acessibilidade
 `5954.11.04 - PROJETO: DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT- END`
 
-`PRIMEIRO SEMESTRE`
+Curso :`Análise e Desenvolvimento de Sistemas`
 
-Projeto em fase de criação e planejamento.
+`PRIMEIRO SEMESTRE`
 
 ## Integrantes
 
